@@ -23,6 +23,7 @@ int main()
             amount++;
         }
     }
+
     cout << "AMOUNT: " << amount << endl;
 }
 
